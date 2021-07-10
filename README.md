@@ -13,9 +13,19 @@ There is a description of the differences in ride-sharing data among the differe
 
 ### Deliverable 1: A ride-sharing summary DataFrame by city type
 
+![Summary by City Type](https://github.com/chloebellehooton/PyBer_Analysis/blob/main/Images/summary_city_type.png)
+
 
 ### Deliverable 2: A multiple-line chart of total fares for each city type
 
+![Chart of Total Fares by City Type](https://github.com/chloebellehooton/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
 ## Summary
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+- There's a huge dispariity in the number of rides, drivers, and fares by city type. Rural areas have very few drivers which is causing higher fares per ride and a low number of rides. If PyBer truly wants to focus on underserved areas, rural would be their next move. 
+
+- However, this might not be the best business decision given how sprawling rural areas can be and the lack of demand shown by the number of rides. This could be due to the lack of supply that is leading to the higher fare per ride, but there also are smaller populations and therefore less opportunity in these rural areas.
+
+- PyBer has been quite successful in the Urban cities and should continue their efforts to expand within this cities as this has been quite lucrative.
+
+- For their next opportunity, PyBer should expand to Suburban areas given they have been able to attain a higher fare per ride and there has been quite a bit of demand. This shouldn't be too difficult given the drivers are being compensated quite well for their efforts compared to the Urban drivers. 
